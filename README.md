@@ -1,6 +1,6 @@
 # windows-process-info
 
-Fetch process information for a particular process ID on Windows using Node.js.
+Fetch Windows process info like cwd, title, command line using Node.js.
 
 ## Usage
 
