@@ -1,6 +1,6 @@
 {
   "name": "windows-process-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch Windows process info like cwd, title, command line",
   "main": "lib/index.js",
   "types": "typings/windows-process-info.d.ts",
